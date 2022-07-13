@@ -4,7 +4,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prachandabhanu&theme=blue-green)
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/prachandabhanu)
+<!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/prachandabhanu) -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
