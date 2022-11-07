@@ -6,8 +6,6 @@
 
 <!-- ![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/prachandabhanu) -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=prachandabhanu)
 
 <!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here) -->
